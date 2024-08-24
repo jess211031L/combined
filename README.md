@@ -1,4 +1,4 @@
-# MLOPS by jess,fillbird,ryan
+# MLOPS by jess, philander ,ryan
 ---
 
 # Combined Project
@@ -104,7 +104,7 @@ combined/
 ## Authors
 
 - Jess - Developer and Project Lead
-- Fillbird - Contributor
+- Philander - Contributor
 - Ryan - Contributor
 
 
