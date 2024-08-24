@@ -10,7 +10,7 @@ This project is a demonstration of an MLOps workflow, combining multiple machine
 This repository contains a combined application that integrates two main components:
 
 1. **Mushroom Classification App**: A web application that predicts the class of mushrooms based on various input features.
-2. **Fillbird App**: A web application for anomaly detection in financial transactions.
+2. **Transaction Anomaly Detection App**: A web application for anomaly detection in financial transactions.
 
 ## Project Structure
 
