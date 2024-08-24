@@ -33,7 +33,7 @@ combined/
 ├── combined_app.py               # Combined application integrating both apps
 ├── dataset2_jess.ipynb           # Jupyter notebook for the second dataset analysis
 ├── dataset3_philander.ipynb      # Jupyter notebook for the third dataset analysis
-├── fillbird_app.py               # Original Fillbird application code
+├── fillbird_app.py               # Original Transaction Anomaly Detection application code
 ├── jess_app.py                   # Original Mushroom Classification application code
 ├── requirements.txt              # List of dependencies needed to run the project
 └── README.md                     # This README file
@@ -83,12 +83,12 @@ combined/
 
 2. **Fillbird App**:
 
-    - The same combined app handles both the mushroom classification and the Fillbird anomaly detection.
+    - The same combined app handles both the mushroom classification and the transaction anomaly detection.
     - You can access the respective apps by navigating to the appropriate URLs on your localhost.
 
 ### Deployment
 
-- The application can be deployed to a cloud platform such as Render or Heroku.
+- The application is deployed to a cloud platform such by Render.
 - Use the command below for deployment using Gunicorn:
 
     ```bash
@@ -98,7 +98,7 @@ combined/
 ## Features
 
 - **Mushroom Classification**: Predict the edibility of mushrooms based on features like cap shape, cap surface, bruises, etc.
-- **Anomaly Detection**: Detect anomalies in financial transactions using the Fillbird App.
+- **Anomaly Detection**: Detect anomalies in financial transactions.
 
 
 ## Authors
