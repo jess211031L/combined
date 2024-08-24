@@ -1,5 +1,4 @@
-# combined
-jess,fillbird,ryan
+# MLOPS by jess,fillbird,ryan
 ---
 
 # Combined Project
